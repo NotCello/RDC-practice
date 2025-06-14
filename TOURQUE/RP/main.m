@@ -1,0 +1,1 @@
+[robot_rp, importInfo_rp] = importrobot('model_task3_Q2.slx');

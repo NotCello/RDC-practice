@@ -1,0 +1,1 @@
+[robot_2rn, importInfo_2rn] = importrobot('model_ask3_Q1.slx');
