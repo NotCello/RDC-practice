@@ -1,6 +1,6 @@
 # Robot Dynamics & Control - Practice Repository
 
-This repository contains practical exercises and implementations for the **Robot Dynamics & Control** course (2025) taught by Pedro Luis Figueroa Saire and Simone Borelli at the University of Genoa.
+This repository contains practical exercises and implementations for the **Robot Dynamics & Control** course (2025) taught by Roberto Cannata, Pedro Luis Figueroa Saire and Simone Borelli at the University of Genoa.
 
 ## 📚 Course Overview
 
@@ -8,25 +8,8 @@ The course focuses on practical implementation of robot dynamics and control alg
 
 ## 🗂️ Repository Structure
 
-### Session 1: Tools for Simulation and Control
-**Files:** `Session_1/`
-- **Simulink Fundamentals**: Basic differential equation simulation
-- **Mass-Spring-Damper Systems**: Implementation using various approaches
-  - Integrative path method
-  - State-space representation
-  - Transfer function approach
-- **PID Controller**: Design and implementation for tracking control
-- **Simscape Multibody**: Introduction to physical modeling
-- **Linear Actuator Control**: Prismatic joint control with sensing and actuation
-
-**Key Learning Objectives:**
-- Master Simulink block-based modeling
-- Understand different representations of dynamic systems
-- Implement basic control algorithms
-- Introduction to physical simulation with Simscape
-
 ### Session 2: Serial Robot Modeling and Statics
-**Files:** `Session_2/`
+**Files:** `GC/`
 - **Serial Robot Construction**: Step-by-step 2R robot building
   - Base link design with rigid transforms
   - Joint implementation (revolute joints)
@@ -44,7 +27,7 @@ The course focuses on practical implementation of robot dynamics and control alg
 - Master coordinate frame transformations
 
 ### Session 3: Newton-Euler Recursive Dynamics
-**Files:** `Session_3/`
+**Files:** `NE/`
 - **Newton-Euler Algorithm**: Complete recursive implementation
   - Forward recursion: velocities and accelerations
   - Backward recursion: forces and torques
@@ -62,7 +45,7 @@ The course focuses on practical implementation of robot dynamics and control alg
 - Generate and test robot trajectories
 
 ### Session 4: Dynamic Robot Control
-**Files:** `Session_4/`
+**Files:** `PD & TORQUE/`
 - **MATLAB Robotics Toolbox Integration**: Commercial robot models
 - **PD Control for Regulation**: Position holding with gravity compensation
 - **Computed Torque Control**: Trajectory tracking with full dynamics
