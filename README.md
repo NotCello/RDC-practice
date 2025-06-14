@@ -179,9 +179,9 @@ The repository includes additional challenges for exam preparation:
 
 ## 👥 Contributors
 
-- **Course Instructors**: Pedro Luis Figueroa Saire, Simone Borelli
+- **Course Instructors**: Giorgio Cannata, Pedro Luis Figueroa Saire, Simone Borelli
 - **Institution**: University of Genoa
-- **Contact**: name.surname@edu.unige.it
+- **Contact**: marcello.ori.m@gmail.com ; S7694567@studenti.unige.it
 
 ## 📄 License
 
